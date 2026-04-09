@@ -26,7 +26,7 @@ These instructions will get you a copy of the project up and running on your loc
 1. Clone the repository. 
 
     ```
-    git clone https://github.com/AnshumanSrivastava108/Real-Time-Drowsiness-Detection-System
+    git clone https://github.com/komala-987/Driver-Drowsiness-Detection
     ```
     
 1. Move into the project directory. 
@@ -88,7 +88,6 @@ These instructions will get you a copy of the project up and running on your loc
 6. The cropped eye images are sent to the hough transformations for detecting pupils, which will determine whether they are open or closed.
 7. If they are found to be closed for five continuous frames, then the driver should be alerted by playing the buzzer.
 
-For a more detailed explanation of this project check [*Real_Time_Drowsiness_Detection_System.pdf*](https://github.com/AnshumanSrivastava108/Real-Time-Drowsiness-Detection-System/blob/main/Real_Time_Drowsiness_Detection_System.pdf).
 
 ## Testing and Results in Real-World Scenario:
 
