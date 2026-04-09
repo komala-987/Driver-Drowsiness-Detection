@@ -98,55 +98,26 @@ The tests were conducted in various conditions including:
 3.  Drivers with spectacles.  
 
 Test case 1: When there is ambient light  
-
-<p align="center">
-<img width="600" height="350" src="Images/1.png ">
-</p>
-                                
+                         
 Result: As shown above, when there is ambient amount of light, the automobile driver's face and eyes are successfully detected.  
 
 
 Test case 2: Position of the automobile drivers face  
 
-1. Centre Positioned
-
-<p align="center">
-<img width="600" height="350" src="Images/2.png ">
-</p>
-                                                               
+1. Centre Positioned                                                               
 Result: As shown in above, When the automobile driver's face is positioned at the Centre, the face, eyes, eye blinks, and drowsiness was successfully detected.  
 
 2. Right Positioned
-
-<p align="center">
-<img width="600" height="350" src="Images/3.png ">
-</p>
                               
 Result: As shown in above, When the automobile driver's face is positioned at the Right, the face, eyes, eye blinks, and drowsiness was successfully detected. 
 
 3. Left Positioned     
-                             
-<p align="center">
-<img width="600" height="350" src="Images/4.png ">
-</p>
-
 Result: As shown in screen snapshot in above, when the automobile driver's face is positioned at the Left, the face, eyes, eye blinks, and drowsiness was successfully detected.  
 
 Test case 3: When the automobile driver is wearing spectacles      
-                                   
-<p align="center">
-<img width="600" height="350" src="Images/5.png ">
-</p>
-
 Result: As shown in  screen  snapshot  in  above, When  the  automobile  driver  is  wearing spectacles, the face, eyes, eye blinks, and drowsiness was successfully detected. 
 
-
-Test case 4: When the automobile driver’s head s tilted    
-
-<p align="center">
-<img width="600" height="350" src="Images/6.png ">
-</p>
-                                          
+Test case 4: When the automobile driver’s head s tilted                                           
 Result: As shown in screen snapshot in above, when the automobile driver's face is tilted for more than 30 degrees from vertical plane, it was observed that the detection of face and eyes failed.  
 
 The system was extensively tested even in real world scenarios, this was achieved by placing the camera on the visor of the car, focusing on the automobile driver. It was found that the system gave positive output unless there was any direct light falling on the camera.       
@@ -154,10 +125,6 @@ The system was extensively tested even in real world scenarios, this was achieve
 ## Future Scope
 
 Smart phone application: It can be implemented as a smart phone application, which can be installed on smart phones. And the automobile driver can start the application after placing it at a position where the camera is focused on the driver.
-
-<p align="center">
-<img width="600" height="350" src="Images/7.jpg ">
-</p>
 
 ## References
 
